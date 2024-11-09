@@ -1,0 +1,17 @@
+D:\c#dedy\SPP\SPP\bin\Debug\SPP.exe.config
+D:\c#dedy\SPP\SPP\bin\Debug\SPP.exe
+D:\c#dedy\SPP\SPP\bin\Debug\SPP.pdb
+D:\c#dedy\SPP\SPP\obj\Debug\SPP.csprojResolveAssemblyReference.cache
+D:\c#dedy\SPP\SPP\obj\Debug\SPP.Form1.resources
+D:\c#dedy\SPP\SPP\obj\Debug\SPP.Properties.Resources.resources
+D:\c#dedy\SPP\SPP\obj\Debug\SPP.csproj.GenerateResource.Cache
+D:\c#dedy\SPP\SPP\obj\Debug\SPP.exe
+D:\c#dedy\SPP\SPP\obj\Debug\SPP.pdb
+D:\c#dedy\SPP\SPP\obj\Debug\SPP.UBeranda.resources
+D:\c#dedy\SPP\SPP\obj\Debug\SPP.UMaster.resources
+D:\c#dedy\SPP\SPP\obj\Debug\SPP.UPetugas.resources
+D:\c#dedy\SPP\SPP\obj\Debug\SPP.USiswa.resources
+D:\c#dedy\SPP\SPP\obj\Debug\SPP.UTransaksi.resources
+D:\c#dedy\SPP\SPP\obj\Debug\SPP.ULaporan.resources
+D:\c#dedy\SPP\SPP\obj\Debug\SPP.ULogin.resources
+D:\c#dedy\SPP\SPP\obj\Debug\SPP.FLogin.resources
